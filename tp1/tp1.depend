@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1567814006 source:c:\users\naza\desktop\calculadora nueva\tp1\biblioteca.c
+	<stdio.h>
+	"biblioteca.h"
+
+1567815664 source:c:\users\naza\desktop\calculadora nueva\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1567811872 c:\users\naza\desktop\calculadora nueva\tp1\biblioteca.h
+
+1567816056 source:c:\users\naza\desktop\tp1\biblioteca.c
+	<stdio.h>
+	"biblioteca.h"
+
+1567816056 c:\users\naza\desktop\tp1\biblioteca.h
+
+1567816056 source:c:\users\naza\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
