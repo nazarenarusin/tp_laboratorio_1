@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1589680911 source:/home/nazarena/Escritorio/TP2/ArrayEmployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1589681124 /home/nazarena/Escritorio/TP2/ArrayEmployees.h
+	<stdio.h>
+
+1589680356 source:/home/nazarena/Escritorio/TP2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
